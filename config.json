@@ -1,0 +1,8 @@
+{
+    "force_newtons": 1.6e-5,
+    "coil_turns": 30,
+    "coil_diameter_millimeters": 25.4,
+    "copper_resistivity": 1.72e-08,
+    "wire_outside_coil_millimeters": 6,
+    "battery_voltage": 7.4
+}
